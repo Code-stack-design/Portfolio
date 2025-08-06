@@ -15,12 +15,13 @@ This is a personal portfolio website for Parvathy V, a final-year Computer Scien
 - JavaScript (basic interactivity)
 
 ## 📸 Screenshot
-[view screenshots(pdf)]([screenshots.pdf](https://drive.google.com/file/d/1mAxLE61QxGuGcA_i2VhaSMtmFP8Cw6KP/view?usp=sharing))
+[view screenshots(pdf)](https://drive.google.com/file/d/1mAxLE61QxGuGcA_i2VhaSMtmFP8Cw6KP/view?usp=sharing)
 
 ## 🔗 Live Demo
 You can host it on [You can now watch the demo on drive](https://drive.google.com/file/d/1DqX2OHogQO5VrvQm_gjvVzTIuqoRc0rZ/view?usp=sharing) 
 ## 📬 Contact
 Email: parvathyv368@gmail.com  
+
 
 
 
